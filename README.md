@@ -31,7 +31,7 @@ This is a simple command-line authentication system implemented in C. Users can 
 
 ## File Structure
 
-- `main.c`: The main program source code.
+- `Authentication.c`: The main program source code.
 - `login.txt`: A text file where user account information is stored.
 - `temp.txt`: A temporary file used during the account deletion process.
 
